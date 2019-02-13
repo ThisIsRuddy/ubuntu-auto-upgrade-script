@@ -1,0 +1,42 @@
+[2019-02-13 16:38:01 ---------- Starting ------------]
+
+[2019-02-13 16:38:01] --------- Attempting to apt update
+Hit:1 http://archive.ubuntu.com/ubuntu bionic InRelease
+Get:2 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Hit:3 http://ppa.launchpad.net/certbot/certbot/ubuntu bionic InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu bionic-updates InRelease
+Get:5 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]
+Hit:6 http://ppa.launchpad.net/ondrej/php/ubuntu bionic InRelease
+Hit:7 https://download.docker.com/linux/ubuntu bionic InRelease
+Hit:8 https://dl.yarnpkg.com/debian stable InRelease
+Get:9 https://deb.nodesource.com/node_8.x bionic InRelease [4,622 B]
+Hit:10 http://ftp.utexas.edu/mariadb/repo/10.3/ubuntu bionic InRelease
+Fetched 168 kB in 2s (91.7 kB/s)
+Reading package lists...
+[2019-02-13 16:38:01] --------- Done with the updates!
+
+[2019-02-13 16:38:01] --------- Attempting apt upgrade
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[2019-02-13 16:38:01] --------- Done with the standard upgrades!
+
+[2019-02-13 16:38:01] --------- Attempting to apt dist-upgrade
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[2019-02-13 16:38:01] --------- Done with the distribution upgrades!
+
+[2019-02-13 16:38:01] --------- Attempting to apt autoremove
+Reading package lists...
+Building dependency tree...
+Reading state information...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[2019-02-13 16:38:01] --------- Done cleaning up!
+
+[2019-02-13 16:38:01] ---------- Finished! ------------]
+
